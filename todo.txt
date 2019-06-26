@@ -1,0 +1,64 @@
+
+
+COLOR
+
+    Semantic ui :
+    const colors = ["#db2828","#f2711c","#fbbd08","#b5cc18","#21ba45","#00b5ad","#2185d0","#6435c9","#a333c8","#e03997","#a5673f","#767676","#1b1c1d"]
+
+    Des bleus :
+    const colors = ["#1e3799","#4a69bd","#6a89cc","#0a3d62","#3c6382","#60a3bc","#82ccdd","#0984e3","#74b9ff"];
+
+
+
+----------------------------------------------------------
+==========================================================
+----------------------------------------------------------
+
+TODAY TASK LIST :
+
+-> pagination pour optimisation de requete
+-> log out on owner change
+-> conso filter by price
+
+-> redaction doc
+-> redaction plan mémoire
+
+==========================================================
+----------------------------------------------------------
+
+PAS TOUT DE SUITE
+
+-> conditionnement -> integer multipliable
+-> Manque les listes secteurs pour les sites :
+    -> St Eloi
+    -> NPRS
+    -> Eurocentre
+    -> Support
+
+-> Delai : recuperer les derniers
+-> Trouver un bon nom
+
+==========================================================
+----------------------------------------------------------
+
+10 jours - CARTOMEDOC
+15 jours - LCL
+2 jours - LYRECO
+2 jours - LYRECO Fournitures
+2 jours - LYRECO informatique
+4 jours - MANUTAN
+4 jours - NUANCIEL
+4 jours - PRIMAGAZ
+4 jours - RAJA
+10 jours - SEALED AIR
+2 jours - SESQUIERES PALETTES
+2 jours - BERNARD PAGES
+
+x jours - PREGIS
+x jours - ECSO
+x jours - GMJ
+x jours - SCIE
+x jours - SCIE Packaging Systems
+x jours - STILL
+x jours - VEOLIA
+x jours - YLEA
